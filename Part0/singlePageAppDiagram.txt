@@ -1,8 +1,0 @@
-
-
-
-	
-sequenceDiagram
-  	  browser->>+server: GET https://studies.cs.helsinki.fi/exampleapp/spa
-    	  browser->>+server: Returns HTML, JS and CSS  
-		Render the single-page app on the browser                             
