@@ -1,7 +1,8 @@
 import axios from "axios";
 
 // const baseURL = "http://localhost:3001/persons";
-const baseURL = "http://localhost:3001/api/persons";
+// const baseURL = "http://localhost:3001/api/persons";
+const baseURL = "/api/persons";
 /// this URL address for the part3 which connecting with backend,  if you want to test this code for Part 2, u can use the above baseURL , remember to run another terminal for json-server
 
 ///HTTP Get request, get the data from the json-server//
